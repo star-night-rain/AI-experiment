@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "*.tcc": "cpp",
+    "vector": "cpp",
+    "cstdlib": "cpp",
+    "algorithm": "cpp",
+    "functional": "cpp",
+    "array": "cpp",
+    "compare": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "ostream": "cpp"
+  }
+}
