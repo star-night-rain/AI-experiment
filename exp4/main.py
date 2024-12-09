@@ -175,7 +175,6 @@ def decision_tree(x_train, x_test, y_train, y_test):
     show_confusion_matrix_of_tree(tree, y_test, y_pred)
     show_tree(tree, x_train)
 
-``
 def main():
     x_train, x_test, y_train, y_test = load_data(transform=True)
     decision_tree(x_train, x_test, y_train, y_test)
